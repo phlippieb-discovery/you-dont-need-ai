@@ -71,13 +71,19 @@ Evolution of products:
 
 Genesis -> Custom -> Product -> Commodity
 
+![Evolution](https://github.com/phlippieb-discovery/you-dont-need-ai/blob/main/Screenshot%202022-04-29%20at%2011.28.19.png)
+
 To build innovative products, we need dependent products to be commodified.
+
+![Example1](https://github.com/phlippieb-discovery/you-dont-need-ai/blob/main/Screenshot%202022-04-29%20at%2011.28.47.png)
 
 ## What this means for AI projects
 
 For AI projects, the dependency is on **data**.
 
 The problem is that the data is too undeveloped in terms of evolution.
+
+![Example2](https://github.com/phlippieb-discovery/you-dont-need-ai/blob/main/Screenshot%202022-04-29%20at%2011.29.13.png)
 
 Examples of problems that AI practitioners deal with:
 
@@ -102,7 +108,11 @@ The Firm's strategy does not account for this.
 
 Using Wardley maps, we can see what The Firm was trying to do...
 
+![Wrong](https://github.com/phlippieb-discovery/you-dont-need-ai/blob/main/Screenshot%202022-04-29%20at%2012.03.18.png)
+
 And we can see what we should actually be focusing on, namely, commodifying data.
+
+![Correct](https://github.com/phlippieb-discovery/you-dont-need-ai/blob/main/Screenshot%202022-04-29%20at%2012.03.35.png)
 
 What this means in practice:
 
